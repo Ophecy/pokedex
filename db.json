@@ -1,0 +1,1212 @@
+{
+	"pokemons": [
+		{
+			"id": 1,
+			"idReg": "0001",
+			"name": "Bulbizarre",
+			"nameEn": "Bulbasaur",
+			"nameJp": "フシギダネFushigidane",
+			"type": "12/4"
+		},
+		{
+			"id": 2,
+			"idReg": "0002",
+			"name": "Herbizarre",
+			"nameEn": "Ivysaur",
+			"nameJp": "フシギソウFushigisō",
+			"type": "12/4"
+		},
+		{
+			"id": 3,
+			"idReg": "0003",
+			"name": "Florizarre",
+			"nameEn": "Venusaur",
+			"nameJp": "フシギバナFushigibana",
+			"type": "12/4"
+		},
+		{
+			"id": 4,
+			"idReg": "0004",
+			"name": "Salamèche",
+			"nameEn": "Charmander",
+			"nameJp": "ヒトカゲHitokage",
+			"type": "10"
+		},
+		{
+			"id": 5,
+			"idReg": "0005",
+			"name": "Reptincel",
+			"nameEn": "Charmeleon",
+			"nameJp": "リザードRizādo",
+			"type": "10"
+		},
+		{
+			"id": 6,
+			"idReg": "0006",
+			"name": "Dracaufeu",
+			"nameEn": "Charizard",
+			"nameJp": "リザードンRizādon",
+			"type": "10/3"
+		},
+		{
+			"id": 7,
+			"idReg": "0007",
+			"name": "Carapuce",
+			"nameEn": "Squirtle",
+			"nameJp": "ゼニガメZenigame",
+			"type": "11"
+		},
+		{
+			"id": 8,
+			"idReg": "0008",
+			"name": "Carabaffe",
+			"nameEn": "Wartortle",
+			"nameJp": "カメールKamēru",
+			"type": "11"
+		},
+		{
+			"id": 9,
+			"idReg": "0009",
+			"name": "Tortank",
+			"nameEn": "Blastoise",
+			"nameJp": "カメックスKamekkusu",
+			"type": "11"
+		},
+		{
+			"id": 10,
+			"idReg": "0010",
+			"name": "Chenipan",
+			"nameEn": "Caterpie",
+			"nameJp": "キャタピーKyatapī",
+			"type": "7"
+		},
+		{
+			"id": 11,
+			"idReg": "0011",
+			"name": "Chrysacier",
+			"nameEn": "Metapod",
+			"nameJp": "トランセルToranseru",
+			"type": "7"
+		},
+		{
+			"id": 12,
+			"idReg": "0012",
+			"name": "Papilusion",
+			"nameEn": "Butterfree",
+			"nameJp": "バタフリーBatafurī",
+			"type": "7/3"
+		},
+		{
+			"id": 13,
+			"idReg": "0013",
+			"name": "Aspicot",
+			"nameEn": "Weedle",
+			"nameJp": "ビードルBīdoru",
+			"type": "7/4"
+		},
+		{
+			"id": 14,
+			"idReg": "0014",
+			"name": "Coconfort",
+			"nameEn": "Kakuna",
+			"nameJp": "コクーンKokūn",
+			"type": "7/4"
+		},
+		{
+			"id": 15,
+			"idReg": "0015",
+			"name": "Dardargnan",
+			"nameEn": "Beedrill",
+			"nameJp": "スピアーSupiā",
+			"type": "7/4"
+		},
+		{
+			"id": 16,
+			"idReg": "0016",
+			"name": "Roucool",
+			"nameEn": "Pidgey",
+			"nameJp": "ポッポPoppo",
+			"type": "1/3"
+		},
+		{
+			"id": 17,
+			"idReg": "0017",
+			"name": "Roucoups",
+			"nameEn": "Pidgeotto",
+			"nameJp": "ピジョンPijon",
+			"type": "1/3"
+		},
+		{
+			"id": 18,
+			"idReg": "0018",
+			"name": "Roucarnage",
+			"nameEn": "Pidgeot",
+			"nameJp": "ピジョットPijotto",
+			"type": "1/3"
+		},
+		{
+			"id": 19,
+			"idReg": "0019",
+			"name": "Rattata",
+			"nameEn": "Rattata",
+			"nameJp": "コラッタKoratta",
+			"type": "1"
+		},
+		{
+			"id": 20,
+			"idReg": "0020",
+			"name": "Rattatac",
+			"nameEn": "Raticate",
+			"nameJp": "ラッタRatta",
+			"type": "1"
+		},
+		{
+			"id": 21,
+			"idReg": "0021",
+			"name": "Piafabec",
+			"nameEn": "Spearow",
+			"nameJp": "オニスズメOnisuzume",
+			"type": "1/3"
+		},
+		{
+			"id": 22,
+			"idReg": "0022",
+			"name": "Rapasdepic",
+			"nameEn": "Fearow",
+			"nameJp": "オニドリルOnidoriru",
+			"type": "1/3"
+		},
+		{
+			"id": 23,
+			"idReg": "0023",
+			"name": "Abo",
+			"nameEn": "Ekans",
+			"nameJp": "アーボĀbo",
+			"type": "4"
+		},
+		{
+			"id": 24,
+			"idReg": "0024",
+			"name": "Arbok",
+			"nameEn": "Arbok",
+			"nameJp": "アーボックĀbokku",
+			"type": "4"
+		},
+		{
+			"id": 25,
+			"idReg": "0025",
+			"name": "Pikachu",
+			"nameEn": "Pikachu",
+			"nameJp": "ピカチュウPikachū",
+			"type": "13"
+		},
+		{
+			"id": 26,
+			"idReg": "0026",
+			"name": "Raichu",
+			"nameEn": "Raichu",
+			"nameJp": "ライチュウRaichū",
+			"type": "13"
+		},
+		{
+			"id": 27,
+			"idReg": "0027",
+			"name": "Sabelette",
+			"nameEn": "Sandshrew",
+			"nameJp": "サンドSando",
+			"type": "5"
+		},
+		{
+			"id": 28,
+			"idReg": "0028",
+			"name": "Sablaireau",
+			"nameEn": "Sandslash",
+			"nameJp": "サンドパンSandopan",
+			"type": "5"
+		},
+		{
+			"id": 29,
+			"idReg": "0029",
+			"name": "Nidoran♀",
+			"nameEn": "Nidoran♀",
+			"nameJp": "ニドラン♀Nidoran♀",
+			"type": "4"
+		},
+		{
+			"id": 30,
+			"idReg": "0030",
+			"name": "Nidorina",
+			"nameEn": "Nidorina",
+			"nameJp": "ニドリーナNidorīna",
+			"type": "4"
+		},
+		{
+			"id": 31,
+			"idReg": "0031",
+			"name": "Nidoqueen",
+			"nameEn": "Nidoqueen",
+			"nameJp": "ニドクインNidokuin",
+			"type": "4/5"
+		},
+		{
+			"id": 32,
+			"idReg": "0032",
+			"name": "Nidoran♂",
+			"nameEn": "Nidoran♂",
+			"nameJp": "ニドラン♂Nidoran♂",
+			"type": "4"
+		},
+		{
+			"id": 33,
+			"idReg": "0033",
+			"name": "Nidorino",
+			"nameEn": "Nidorino",
+			"nameJp": "ニドリーノNidorīno",
+			"type": "4"
+		},
+		{
+			"id": 34,
+			"idReg": "0034",
+			"name": "Nidoking",
+			"nameEn": "Nidoking",
+			"nameJp": "ニドキングNidokingu",
+			"type": "4/5"
+		},
+		{
+			"id": 35,
+			"idReg": "0035",
+			"name": "Mélofée",
+			"nameEn": "Clefairy",
+			"nameJp": "ピッピPippi",
+			"type": "Fée"
+		},
+		{
+			"id": 36,
+			"idReg": "0036",
+			"name": "Mélodelfe",
+			"nameEn": "Clefable",
+			"nameJp": "ピクシーPikushī",
+			"type": "Fée"
+		},
+		{
+			"id": 37,
+			"idReg": "0037",
+			"name": "Goupix",
+			"nameEn": "Vulpix",
+			"nameJp": "ロコンRokon",
+			"type": "10"
+		},
+		{
+			"id": 38,
+			"idReg": "0038",
+			"name": "Feunard",
+			"nameEn": "Ninetales",
+			"nameJp": "キュウコンKyūkon",
+			"type": "10"
+		},
+		{
+			"id": 39,
+			"idReg": "0039",
+			"name": "Rondoudou",
+			"nameEn": "Jigglypuff",
+			"nameJp": "プリンPurin",
+			"type": "1"
+		},
+		{
+			"id": 40,
+			"idReg": "0040",
+			"name": "Grodoudou",
+			"nameEn": "Wigglytuff",
+			"nameJp": "プクリンPukurin",
+			"type": "1"
+		},
+		{
+			"id": 41,
+			"idReg": "0041",
+			"name": "Nosferapti",
+			"nameEn": "Zubat",
+			"nameJp": "ズバットZubatto",
+			"type": "4/3"
+		},
+		{
+			"id": 42,
+			"idReg": "0042",
+			"name": "Nosferalto",
+			"nameEn": "Golbat",
+			"nameJp": "ゴルバットGorubatto",
+			"type": "4/3"
+		},
+		{
+			"id": 43,
+			"idReg": "0043",
+			"name": "Mystherbe",
+			"nameEn": "Oddish",
+			"nameJp": "ナゾノクサNazonokusa",
+			"type": "12/4"
+		},
+		{
+			"id": 44,
+			"idReg": "0044",
+			"name": "Ortide",
+			"nameEn": "Gloom",
+			"nameJp": "クサイハナKusaihana",
+			"type": "12/4"
+		},
+		{
+			"id": 45,
+			"idReg": "0045",
+			"name": "Rafflesia",
+			"nameEn": "Vileplume",
+			"nameJp": "ラフレシアRafureshia",
+			"type": "12/4"
+		},
+		{
+			"id": 46,
+			"idReg": "0046",
+			"name": "Paras",
+			"nameEn": "Paras",
+			"nameJp": "パラスParasu",
+			"type": "7/12"
+		},
+		{
+			"id": 47,
+			"idReg": "0047",
+			"name": "Parasect",
+			"nameEn": "Parasect",
+			"nameJp": "パラセクトParasekuto",
+			"type": "7/12"
+		},
+		{
+			"id": 48,
+			"idReg": "0048",
+			"name": "Mimitoss",
+			"nameEn": "Venonat",
+			"nameJp": "コンパンKonpan",
+			"type": "7/4"
+		},
+		{
+			"id": 49,
+			"idReg": "0049",
+			"name": "Aéromite",
+			"nameEn": "Venomoth",
+			"nameJp": "モルフォンMorufon",
+			"type": "7/4"
+		},
+		{
+			"id": 50,
+			"idReg": "0050",
+			"name": "Taupiqueur",
+			"nameEn": "Diglett",
+			"nameJp": "ディグダDiguda",
+			"type": "5"
+		},
+		{
+			"id": 51,
+			"idReg": "0051",
+			"name": "Triopikeur",
+			"nameEn": "Dugtrio",
+			"nameJp": "ダグトリオDagutorio",
+			"type": "5"
+		},
+		{
+			"id": 52,
+			"idReg": "0052",
+			"name": "Miaouss",
+			"nameEn": "Meowth",
+			"nameJp": "ニャースNyāsu",
+			"type": "1"
+		},
+		{
+			"id": 53,
+			"idReg": "0053",
+			"name": "Persian",
+			"nameEn": "Persian",
+			"nameJp": "ペルシアンPerushian",
+			"type": "1"
+		},
+		{
+			"id": 54,
+			"idReg": "0054",
+			"name": "Psykokwak",
+			"nameEn": "Psyduck",
+			"nameJp": "コダックKodakku",
+			"type": "11"
+		},
+		{
+			"id": 55,
+			"idReg": "0055",
+			"name": "Akwakwak",
+			"nameEn": "Golduck",
+			"nameJp": "ゴルダックGorudakku",
+			"type": "11"
+		},
+		{
+			"id": 56,
+			"idReg": "0056",
+			"name": "Férosinge",
+			"nameEn": "Mankey",
+			"nameJp": "マンキーMankī",
+			"type": "2"
+		},
+		{
+			"id": 57,
+			"idReg": "0057",
+			"name": "Colossinge",
+			"nameEn": "Primeape",
+			"nameJp": "オコリザルOkorizaru",
+			"type": "2"
+		},
+		{
+			"id": 58,
+			"idReg": "0058",
+			"name": "Caninos",
+			"nameEn": "Growlithe",
+			"nameJp": "ガーディGādi",
+			"type": "10"
+		},
+		{
+			"id": 59,
+			"idReg": "0059",
+			"name": "Arcanin",
+			"nameEn": "Arcanine",
+			"nameJp": "ウインディUindi",
+			"type": "10"
+		},
+		{
+			"id": 60,
+			"idReg": "0060",
+			"name": "Ptitard",
+			"nameEn": "Poliwag",
+			"nameJp": "ニョロモNyoromo",
+			"type": "11"
+		},
+		{
+			"id": 61,
+			"idReg": "0061",
+			"name": "Têtarte",
+			"nameEn": "Poliwhirl",
+			"nameJp": "ニョロゾNyorozo",
+			"type": "11"
+		},
+		{
+			"id": 62,
+			"idReg": "0062",
+			"name": "Tartard",
+			"nameEn": "Poliwrath",
+			"nameJp": "ニョロボンNyorobon",
+			"type": "11/2"
+		},
+		{
+			"id": 63,
+			"idReg": "0063",
+			"name": "Abra",
+			"nameEn": "Abra",
+			"nameJp": "ケーシィKēshī",
+			"type": "14"
+		},
+		{
+			"id": 64,
+			"idReg": "0064",
+			"name": "Kadabra",
+			"nameEn": "Kadabra",
+			"nameJp": "ユンゲラーYungerā",
+			"type": "14"
+		},
+		{
+			"id": 65,
+			"idReg": "0065",
+			"name": "Alakazam",
+			"nameEn": "Alakazam",
+			"nameJp": "フーディンFūdin",
+			"type": "14"
+		},
+		{
+			"id": 66,
+			"idReg": "0066",
+			"name": "Machoc",
+			"nameEn": "Machop",
+			"nameJp": "ワンリキーWanrikī",
+			"type": "2"
+		},
+		{
+			"id": 67,
+			"idReg": "0067",
+			"name": "Machopeur",
+			"nameEn": "Machoke",
+			"nameJp": "ゴーリキーGōrikī",
+			"type": "2"
+		},
+		{
+			"id": 68,
+			"idReg": "0068",
+			"name": "Mackogneur",
+			"nameEn": "Machamp",
+			"nameJp": "カイリキーKairikī",
+			"type": "2"
+		},
+		{
+			"id": 69,
+			"idReg": "0069",
+			"name": "Chétiflor",
+			"nameEn": "Bellsprout",
+			"nameJp": "マダツボミMadatsubomi",
+			"type": "12/4"
+		},
+		{
+			"id": 70,
+			"idReg": "0070",
+			"name": "Boustiflor",
+			"nameEn": "Weepinbell",
+			"nameJp": "ウツドンUtsudon",
+			"type": "12/4"
+		},
+		{
+			"id": 71,
+			"idReg": "0071",
+			"name": "Empiflor",
+			"nameEn": "Victreebel",
+			"nameJp": "ウツボットUtsubotto",
+			"type": "12/4"
+		},
+		{
+			"id": 72,
+			"idReg": "0072",
+			"name": "Tentacool",
+			"nameEn": "Tentacool",
+			"nameJp": "メノクラゲMenokurage",
+			"type": "11/4"
+		},
+		{
+			"id": 73,
+			"idReg": "0073",
+			"name": "Tentacruel",
+			"nameEn": "Tentacruel",
+			"nameJp": "ドククラゲDokukurage",
+			"type": "11/4"
+		},
+		{
+			"id": 74,
+			"idReg": "0074",
+			"name": "Racaillou",
+			"nameEn": "Geodude",
+			"nameJp": "イシツブテIshitsubute",
+			"type": "6/5"
+		},
+		{
+			"id": 75,
+			"idReg": "0075",
+			"name": "Gravalanch",
+			"nameEn": "Graveler",
+			"nameJp": "ゴローンGorōn",
+			"type": "6/5"
+		},
+		{
+			"id": 76,
+			"idReg": "0076",
+			"name": "Grolem",
+			"nameEn": "Golem",
+			"nameJp": "ゴローニャGorōnya",
+			"type": "6/5"
+		},
+		{
+			"id": 77,
+			"idReg": "0077",
+			"name": "Ponyta",
+			"nameEn": "Ponyta",
+			"nameJp": "ポニータPonīta",
+			"type": "10"
+		},
+		{
+			"id": 78,
+			"idReg": "0078",
+			"name": "Galopa",
+			"nameEn": "Rapidash",
+			"nameJp": "ギャロップGyaroppu",
+			"type": "10"
+		},
+		{
+			"id": 79,
+			"idReg": "0079",
+			"name": "Ramoloss",
+			"nameEn": "Slowpoke",
+			"nameJp": "ヤドンYadon",
+			"type": "11/14"
+		},
+		{
+			"id": 80,
+			"idReg": "0080",
+			"name": "Flagadoss",
+			"nameEn": "Slowbro",
+			"nameJp": "ヤドランYadoran",
+			"type": "11/14"
+		},
+		{
+			"id": 81,
+			"idReg": "0081",
+			"name": "Magnéti",
+			"nameEn": "Magnemite",
+			"nameJp": "コイルKoiru",
+			"type": "13/9"
+		},
+		{
+			"id": 82,
+			"idReg": "0082",
+			"name": "Magnéton",
+			"nameEn": "Magneton",
+			"nameJp": "レアコイルReakoiru",
+			"type": "13/9"
+		},
+		{
+			"id": 83,
+			"idReg": "0083",
+			"name": "Canarticho",
+			"nameEn": "Farfetch.d",
+			"nameJp": "カモネギKamonegi",
+			"type": "1/3"
+		},
+		{
+			"id": 84,
+			"idReg": "0084",
+			"name": "Doduo",
+			"nameEn": "Doduo",
+			"nameJp": "ドードーDōdō",
+			"type": "1/3"
+		},
+		{
+			"id": 85,
+			"idReg": "0085",
+			"name": "Dodrio",
+			"nameEn": "Dodrio",
+			"nameJp": "ドードリオDōdorio",
+			"type": "1/3"
+		},
+		{
+			"id": 86,
+			"idReg": "0086",
+			"name": "Otaria",
+			"nameEn": "Seel",
+			"nameJp": "パウワウPauwau",
+			"type": "11"
+		},
+		{
+			"id": 87,
+			"idReg": "0087",
+			"name": "Lamantine",
+			"nameEn": "Dewgong",
+			"nameJp": "ジュゴンJugon",
+			"type": "11/15"
+		},
+		{
+			"id": 88,
+			"idReg": "0088",
+			"name": "Tadmorv",
+			"nameEn": "Grimer",
+			"nameJp": "ベトベターBetobetā",
+			"type": "4"
+		},
+		{
+			"id": 89,
+			"idReg": "0089",
+			"name": "Grotadmorv",
+			"nameEn": "Muk",
+			"nameJp": "ベトベトンBetobeton",
+			"type": "4"
+		},
+		{
+			"id": 90,
+			"idReg": "0090",
+			"name": "Kokiyas",
+			"nameEn": "Shellder",
+			"nameJp": "シェルダーSherudā",
+			"type": "11"
+		},
+		{
+			"id": 91,
+			"idReg": "0091",
+			"name": "Crustabri",
+			"nameEn": "Cloyster",
+			"nameJp": "パルシェンParushen",
+			"type": "11/15"
+		},
+		{
+			"id": 92,
+			"idReg": "0092",
+			"name": "Fantominus",
+			"nameEn": "Gastly",
+			"nameJp": "ゴースGōsu",
+			"type": "8/4"
+		},
+		{
+			"id": 93,
+			"idReg": "0093",
+			"name": "Spectrum",
+			"nameEn": "Haunter",
+			"nameJp": "ゴーストGōsuto",
+			"type": "8/4"
+		},
+		{
+			"id": 94,
+			"idReg": "0094",
+			"name": "Ectoplasma",
+			"nameEn": "Gengar",
+			"nameJp": "ゲンガーGengā",
+			"type": "8/4"
+		},
+		{
+			"id": 95,
+			"idReg": "0095",
+			"name": "Onix",
+			"nameEn": "Onix",
+			"nameJp": "イワークIwāku",
+			"type": "6/5"
+		},
+		{
+			"id": 96,
+			"idReg": "0096",
+			"name": "Soporifik",
+			"nameEn": "Drowzee",
+			"nameJp": "スリープSurīpu",
+			"type": "14"
+		},
+		{
+			"id": 97,
+			"idReg": "0097",
+			"name": "Hypnomade",
+			"nameEn": "Hypno",
+			"nameJp": "スリーパーSurīpā",
+			"type": "14"
+		},
+		{
+			"id": 98,
+			"idReg": "0098",
+			"name": "Krabby",
+			"nameEn": "Krabby",
+			"nameJp": "クラブKurabu",
+			"type": "11"
+		},
+		{
+			"id": 99,
+			"idReg": "0099",
+			"name": "Krabboss",
+			"nameEn": "Kingler",
+			"nameJp": "キングラーKingurā",
+			"type": "11"
+		},
+		{
+			"id": 100,
+			"idReg": "0100",
+			"name": "3torbe",
+			"nameEn": "3torb",
+			"nameJp": "ビリリダマBiriridama",
+			"type": "13"
+		},
+		{
+			"id": 101,
+			"idReg": "0101",
+			"name": "Électrode",
+			"nameEn": "Electrode",
+			"nameJp": "マルマインMarumain",
+			"type": "13"
+		},
+		{
+			"id": 102,
+			"idReg": "0102",
+			"name": "Noeunoeuf",
+			"nameEn": "Exeggcute",
+			"nameJp": "タマタマTamatama",
+			"type": "12/14"
+		},
+		{
+			"id": 103,
+			"idReg": "0103",
+			"name": "Noadkoko",
+			"nameEn": "Exeggutor",
+			"nameJp": "ナッシーNasshī",
+			"type": "12/14"
+		},
+		{
+			"id": 104,
+			"idReg": "0104",
+			"name": "Osselait",
+			"nameEn": "Cubone",
+			"nameJp": "カラカラKarakara",
+			"type": "5"
+		},
+		{
+			"id": 105,
+			"idReg": "0105",
+			"name": "Ossatueur",
+			"nameEn": "Marowak",
+			"nameJp": "ガラガラGaragara",
+			"type": "5"
+		},
+		{
+			"id": 106,
+			"idReg": "0106",
+			"name": "Kicklee",
+			"nameEn": "Hitmonlee",
+			"nameJp": "サワムラーSawamurā",
+			"type": "2"
+		},
+		{
+			"id": 107,
+			"idReg": "0107",
+			"name": "Tygnon",
+			"nameEn": "Hitmonchan",
+			"nameJp": "エビワラーEbiwarā",
+			"type": "2"
+		},
+		{
+			"id": 108,
+			"idReg": "0108",
+			"name": "Excelangue",
+			"nameEn": "Lickitung",
+			"nameJp": "ベロリンガBeroringa",
+			"type": "1"
+		},
+		{
+			"id": 109,
+			"idReg": "0109",
+			"name": "Smogo",
+			"nameEn": "Koffing",
+			"nameJp": "ドガースDogāsu",
+			"type": "4"
+		},
+		{
+			"id": 110,
+			"idReg": "0110",
+			"name": "Smogogo",
+			"nameEn": "Weezing",
+			"nameJp": "マタドガスMatadogasu",
+			"type": "4"
+		},
+		{
+			"id": 111,
+			"idReg": "0111",
+			"name": "Rhinocorne",
+			"nameEn": "Rhyhorn",
+			"nameJp": "サイホーンSaihōn",
+			"type": "5/6"
+		},
+		{
+			"id": 112,
+			"idReg": "0112",
+			"name": "Rhinoféros",
+			"nameEn": "Rhydon",
+			"nameJp": "サイドンSaidon",
+			"type": "5/6"
+		},
+		{
+			"id": 113,
+			"idReg": "0113",
+			"name": "Leveinard",
+			"nameEn": "Chansey",
+			"nameJp": "ラッキーRakkī",
+			"type": "1"
+		},
+		{
+			"id": 114,
+			"idReg": "0114",
+			"name": "Saquedeneu",
+			"nameEn": "Tangela",
+			"nameJp": "モンジャラMonjara",
+			"type": "12"
+		},
+		{
+			"id": 115,
+			"idReg": "0115",
+			"name": "Kangourex",
+			"nameEn": "Kangaskhan",
+			"nameJp": "ガルーラGarūra",
+			"type": "1"
+		},
+		{
+			"id": 116,
+			"idReg": "0116",
+			"name": "Hypotrempe",
+			"nameEn": "Horsea",
+			"nameJp": "タッツーTattsū",
+			"type": "11"
+		},
+		{
+			"id": 117,
+			"idReg": "0117",
+			"name": "Hypocéan",
+			"nameEn": "Seadra",
+			"nameJp": "シードラShīdora",
+			"type": "11"
+		},
+		{
+			"id": 118,
+			"idReg": "0118",
+			"name": "Poissirène",
+			"nameEn": "Goldeen",
+			"nameJp": "トサキントTosakinto",
+			"type": "11"
+		},
+		{
+			"id": 119,
+			"idReg": "0119",
+			"name": "Poissoroy",
+			"nameEn": "Seaking",
+			"nameJp": "アズマオウAzumaō",
+			"type": "11"
+		},
+		{
+			"id": 120,
+			"idReg": "0120",
+			"name": "Stari",
+			"nameEn": "Staryu",
+			"nameJp": "ヒトデマンHitodeman",
+			"type": "11"
+		},
+		{
+			"id": 121,
+			"idReg": "0121",
+			"name": "Staross",
+			"nameEn": "Starmie",
+			"nameJp": "スターミーSutāmī",
+			"type": "11/14"
+		},
+		{
+			"id": 122,
+			"idReg": "0122",
+			"name": "M.Mime",
+			"nameEn": "Mr.Mime",
+			"nameJp": "バリヤードBariyādo",
+			"type": "14"
+		},
+		{
+			"id": 123,
+			"idReg": "0123",
+			"name": "Insécateur",
+			"nameEn": "Scyther",
+			"nameJp": "ストライクSutoraiku",
+			"type": "7/3"
+		},
+		{
+			"id": 124,
+			"idReg": "0124",
+			"name": "Lippoutou",
+			"nameEn": "Jynx",
+			"nameJp": "ルージュラRūjura",
+			"type": "15/14"
+		},
+		{
+			"id": 125,
+			"idReg": "0125",
+			"name": "Élektek",
+			"nameEn": "Electabuzz",
+			"nameJp": "エレブーErebū",
+			"type": "13"
+		},
+		{
+			"id": 126,
+			"idReg": "0126",
+			"name": "Magmar",
+			"nameEn": "Magmar",
+			"nameJp": "ブーバーBūbā",
+			"type": "10"
+		},
+		{
+			"id": 127,
+			"idReg": "0127",
+			"name": "Scarabrute",
+			"nameEn": "Pinsir",
+			"nameJp": "カイロスKairosu",
+			"type": "7"
+		},
+		{
+			"id": 128,
+			"idReg": "0128",
+			"name": "Tauros",
+			"nameEn": "Tauros",
+			"nameJp": "ケンタロスKentarosu",
+			"type": "1"
+		},
+		{
+			"id": 129,
+			"idReg": "0129",
+			"name": "Magicarpe",
+			"nameEn": "Magikarp",
+			"nameJp": "コイキングKoikingu",
+			"type": "11"
+		},
+		{
+			"id": 130,
+			"idReg": "0130",
+			"name": "Léviator",
+			"nameEn": "Gyarados",
+			"nameJp": "ギャラドスGyaradosu",
+			"type": "11/3"
+		},
+		{
+			"id": 131,
+			"idReg": "0131",
+			"name": "Lokhlass",
+			"nameEn": "Lapras",
+			"nameJp": "ラプラスRapurasu",
+			"type": "11/15"
+		},
+		{
+			"id": 132,
+			"idReg": "0132",
+			"name": "Métamorph",
+			"nameEn": "Ditto",
+			"nameJp": "メタモンMetamon",
+			"type": "1"
+		},
+		{
+			"id": 133,
+			"idReg": "0133",
+			"name": "É3i",
+			"nameEn": "Eevee",
+			"nameJp": "イーブイĪbui",
+			"type": "1"
+		},
+		{
+			"id": 134,
+			"idReg": "0134",
+			"name": "Aquali",
+			"nameEn": "Vaporeon",
+			"nameJp": "シャワーズShawāzu",
+			"type": "11"
+		},
+		{
+			"id": 135,
+			"idReg": "0135",
+			"name": "3tali",
+			"nameEn": "Jolteon",
+			"nameJp": "サンダースSandāsu",
+			"type": "13"
+		},
+		{
+			"id": 136,
+			"idReg": "0136",
+			"name": "Pyroli",
+			"nameEn": "Flareon",
+			"nameJp": "ブースターBūsutā",
+			"type": "10"
+		},
+		{
+			"id": 137,
+			"idReg": "0137",
+			"name": "Porygon",
+			"nameEn": "Porygon",
+			"nameJp": "ポリゴンPorigon",
+			"type": "1"
+		},
+		{
+			"id": 138,
+			"idReg": "0138",
+			"name": "Amonita",
+			"nameEn": "Omanyte",
+			"nameJp": "オムナイトOmunaito",
+			"type": "6/11"
+		},
+		{
+			"id": 139,
+			"idReg": "0139",
+			"name": "Amonistar",
+			"nameEn": "Omastar",
+			"nameJp": "オムスターOmusutā",
+			"type": "6/11"
+		},
+		{
+			"id": 140,
+			"idReg": "0140",
+			"name": "Kabuto",
+			"nameEn": "Kabuto",
+			"nameJp": "カブトKabuto",
+			"type": "6/11"
+		},
+		{
+			"id": 141,
+			"idReg": "0141",
+			"name": "Kabutops",
+			"nameEn": "Kabutops",
+			"nameJp": "カブトプスKabutopusu",
+			"type": "6/11"
+		},
+		{
+			"id": 142,
+			"idReg": "0142",
+			"name": "Ptéra",
+			"nameEn": "Aerodactyl",
+			"nameJp": "プテラPutera",
+			"type": "6/3"
+		},
+		{
+			"id": 143,
+			"idReg": "0143",
+			"name": "Ronflex",
+			"nameEn": "Snorlax",
+			"nameJp": "カビゴンKabigon",
+			"type": "1"
+		},
+		{
+			"id": 144,
+			"idReg": "0144",
+			"name": "Artikodin",
+			"nameEn": "Articuno",
+			"nameJp": "フリーザーFurīzā",
+			"type": "15/3"
+		},
+		{
+			"id": 145,
+			"idReg": "0145",
+			"name": "Électhor",
+			"nameEn": "Zapdos",
+			"nameJp": "サンダーSandā",
+			"type": "13/3"
+		},
+		{
+			"id": 146,
+			"idReg": "0146",
+			"name": "Sulfura",
+			"nameEn": "Moltres",
+			"nameJp": "ファイヤーFaiyā",
+			"type": "10/3"
+		},
+		{
+			"id": 147,
+			"idReg": "0147",
+			"name": "Minidraco",
+			"nameEn": "Dratini",
+			"nameJp": "ミニリュウMiniryū",
+			"type": "16"
+		},
+		{
+			"id": 148,
+			"idReg": "0148",
+			"name": "Draco",
+			"nameEn": "Dragonair",
+			"nameJp": "ハクリューHakuryū",
+			"type": "16"
+		},
+		{
+			"id": 149,
+			"idReg": "0149",
+			"name": "Dracolosse",
+			"nameEn": "Dragonite",
+			"nameJp": "カイリューKairyū",
+			"type": "16/3"
+		},
+		{
+			"id": 150,
+			"idReg": "0150",
+			"name": "Mewtwo",
+			"nameEn": "Mewtwo",
+			"nameJp": "ミュウツーMyūtsū",
+			"type": "14"
+		},
+		{
+			"id": 151,
+			"idReg": "0151",
+			"name": "Mew",
+			"nameEn": "Mew",
+			"nameJp": "ミュウMyū",
+			"type": "14"
+		}
+	]
+}
